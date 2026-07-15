@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ptik6a.wedang77win.xyz/sitemap.xml
